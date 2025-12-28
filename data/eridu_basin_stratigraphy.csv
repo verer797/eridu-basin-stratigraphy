@@ -1,0 +1,11 @@
+SampleID,StratigraphicLayer,Depth,GrainSize,OrganicContent
+EB001,LayerA,12.5,Clay,Charcoal
+EB002,LayerB,15.2,Silt,Pollen
+EB003,LayerA,10.8,Sand,None
+EB004,LayerC,18.6,Clay,Undetermined
+EB005,LayerB,14.3,Silt,Undetermined
+EB006,LayerD,22.1,Sand,None
+EB007,LayerC,19.5,Clay,Charcoal
+EB008,LayerA,11.2,Silt,Undetermined
+EB009,LayerD,23.4,Sand,Pollen
+EB010,LayerB,16.7,Clay,Undetermined
